@@ -1,5 +1,5 @@
 {
-    "name": "league/tactician-command-events",
+    "name": "micro-module/tactician-command-events",
     "description": "Tactician Command Events",
     "license": "MIT",
     "keywords": ["event", "tactician"],
